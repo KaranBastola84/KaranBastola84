@@ -25,9 +25,9 @@ I am a dedicated software developer. I enjoy working on various projects that ch
 
 ## Top Projects
 
-- [JWT-Role-Based-Auth-CSharp](https://github.com/KaranBastola84/JWT-Role-Based-Auth-CSharp): A Role-Based Auth using .NET. ⭐ 2 Stars | Language: C# 
-- [cms-backend](https://github.com/KaranBastola84/cms-backend): FYP project. ⭐ 0 Stars | Language: C#
-- [ExpenseTrackerCLI](https://github.com/KaranBastola84/ExpenseTrackerCLI): A CLI tool for tracking expenses. ⭐ 0 Stars | Language: C#
+- [JWT-Role-Based-Auth-CSharp](https://github.com/KaranBastola84/JWT-Role-Based-Auth-CSharp): A Role-Based Auth using .NET. | Language: C# 
+- [cms-backend](https://github.com/KaranBastola84/cms-backend): FYP project. | Language: C#
+- [ExpenseTrackerCLI](https://github.com/KaranBastola84/ExpenseTrackerCLI): A CLI tool for tracking expenses. | Language: C#
 
 ## GitHub Stats
 
