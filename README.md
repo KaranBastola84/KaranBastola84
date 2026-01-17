@@ -42,3 +42,7 @@ I am a dedicated software developer. I enjoy working on various projects that ch
 <img align="left"  width="1024px" src="https://github-readme-activity-graph.vercel.app/graph?username=karanbastola84&bg_color=0d0d0d&color=2ec55f&line=2c8f96&point=403d3d&area=true&hide_border=true" alt="Karan Contribution Graph" />
 
 <br clear="left"/>
+
+## 🎧 Now Playing on Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jedpwiulpk24cekpt63oacboo4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=000000&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
