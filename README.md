@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Karan Bastola, a passionate software developer. I love crafting elegant solutions to complex problems and am always eager to learn new technologies. Let's create something amazing together!
+I love crafting elegant solutions to complex problems and eager to learn new technologies.
 
 ## About Me
 
@@ -10,7 +10,7 @@ I am a dedicated software developer. I enjoy working on various projects that ch
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanbastola84&label=Profile%20views&color=0e75b6&style=flat" alt="karanbastola84" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React.js and .NET**
+- 🌱 I’m currently learning **System Design, React.js and TypeScript**
 
 - 📫 How to reach me **bnstkaran84@gmail.com**
 
