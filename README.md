@@ -11,8 +11,8 @@ const karan = {
   role:       "Frontend Developer",
   focus:      ["React", ".NET", "Full-Stack"],
   location:   "Sundarharaincha, Morang · Nepal 🇳🇵",
-  education:  "BSc (Hons) Computing — Itahari International College",
-  status:     "Open to work · Final Year",
+  education:  "BSc (Hons) Computing",
+  status:     "Open to work",
   shipping:   "Real products for real clients since 2024",
 };
 ```
@@ -23,7 +23,7 @@ const karan = {
 
 ## 🚀 What I Build
 
-I don't just write code — I ship products. From live client platforms to full-stack team projects, everything I build reaches real users.
+I don't just write code — I ship products. Everything I build reaches real users.
 
 - ⚛️ **React frontends** — component-driven, responsive, production-ready
 - 🔐 **JWT auth systems** — multi-role, secure, implemented across every major project
@@ -34,11 +34,11 @@ I don't just write code — I ship products. From live client platforms to full-
 
 ## 💼 Work Experience
 
-**Frontend Developer — Client Project** &nbsp;·&nbsp; *BookMyTest* &nbsp;·&nbsp; Jan 2025 – May 2025
-> Built and shipped a live test-booking platform at [bookmytest.com.np](https://bookmytest.com.np) · JWT auth · 4 sprint cycles · full deployment
+*BookMyTest* &nbsp;·&nbsp; Jan 2025 – May 2025
+> Built and shipped a live test-booking platform at [bookmytest.com.np](https://bookmytest.com.np) 
 
 **Frontend Developer Intern** &nbsp;·&nbsp; *ING Skill Academy (SMaRC)* &nbsp;·&nbsp; Jun 2024 – Aug 2024
-> Delivered the Farm Designer module solo — a drag-and-drop React UI synced to physical CNC hardware (NVIDIA Jetson) · 3 months · end-to-end
+> Delivered the Farm Designer module solo — a drag-and-drop React UI synced to physical CNC hardware
 
 ---
 
