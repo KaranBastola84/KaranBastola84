@@ -30,7 +30,11 @@
 
 ---
 
+<div align="center">
+
 ## About Me
+
+</div>
 
 Hi, I'm **Karan Bastola**. I enjoy building user-focused web applications and also work with backend APIs, relational databases, and application architecture.
 
@@ -43,8 +47,11 @@ I value readable code, thoughtful user experiences, and practical solutions to r
 - **Portfolio:** [karanbastola.com.np](https://karanbastola.com.np)
 
 ---
-
+<div align="center">
+  
 ## Featured Projects
+
+</div>
 
 <table>
   <tr>
@@ -140,8 +147,11 @@ I value readable code, thoughtful user experiences, and practical solutions to r
 </table>
 
 ---
-
+<div align="center">
+  
 ## Experience
+
+</div> 
 
 ### Frontend Engineer — BookMyTest
 **January 2025 – May 2025**
@@ -158,9 +168,11 @@ I value readable code, thoughtful user experiences, and practical solutions to r
 - Explored frontend communication with physical systems and real-time plant-detection updates.
 
 ---
-
+<div align="center">
+  
 ## Technical Skills
 
+</div>
 <div align="center">
 
 ### Frontend
@@ -201,19 +213,9 @@ I value readable code, thoughtful user experiences, and practical solutions to r
 
 ---
 
-## GitHub Activity
-
 <div align="center">
-
-### Contribution Graph
-
-<a href="https://github.com/KaranBastola84">
-  <img src="https://ghchart.rshah.org/7F77DD/KaranBastola84" alt="Karan Bastola's GitHub contribution graph" width="100%" />
-</a>
-
-<br /><br />
-
-### GitHub Statistics
+  
+## GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=KaranBastola84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7F77DD&title_color=7F77DD&text_color=9FA8DA" alt="GitHub profile statistics" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranBastola84&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=9FA8DA" alt="Most-used programming languages" width="49%" />
