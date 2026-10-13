@@ -36,7 +36,7 @@
 
 </div>
 
-Hi, I'm **Karan Bastola**. I enjoy building user-focused web applications and also work with backend APIs, relational databases, and application architecture.
+I enjoy building user-focused web applications and also work with backend APIs, relational databases, and application architecture.
 
 I value readable code, thoughtful user experiences, and practical solutions to real problems. I'm continuing to strengthen my skills through hands-on projects and collaboration.
 
